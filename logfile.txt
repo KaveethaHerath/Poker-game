@@ -1,0 +1,371 @@
+
+		Round 1
+
+Player 1withdrawed.
+Player 1
+Hand 
+ Five of Diamonds   Four of Spades   Jack of Clubs   Five of Spades   Four of Diamonds   
+Winning probability 
+0.000000
+
+
+Player 2
+Hand 
+ Jack of Hearts   Jack of Diamonds   Four of Hearts   Ace of Clubs   Four of Clubs   
+Winning probability 
+35.548172
+
+
+Player 3
+Hand 
+ Two of Clubs   Ten of Spades   Ace of Spades   Ace of Diamonds   Queen of Clubs   
+Winning probability 
+27.242523
+
+
+Player 4
+Hand 
+ Ten of Clubs   Seven of Hearts   Nine of Diamonds   Six of Clubs   Two of Spades   
+Winning probability 
+18.272425
+
+
+Player 5
+Hand 
+ Two of Hearts   Ace of Hearts   Ten of Hearts   Nine of Spades   Queen of Hearts   
+Winning probability 
+18.936876
+
+
+
+Winner of the round1Player 1
+
+		Round 2
+Player 1
+Hand 
+ 
+Winning probability 
+0.000000
+
+
+Player 2
+Hand 
+ Two of Hearts   Eight of Hearts   Nine of Spades   Seven of Hearts   Two of Spades   
+Winning probability 
+28.961748
+
+
+Player 3
+Hand 
+ Two of Diamonds   Queen of Spades   Five of Spades   Seven of Diamonds   Six of Hearts   
+Winning probability 
+20.400728
+
+
+Player 4
+Hand 
+ Six of Spades   Seven of Clubs   Ace of Clubs   Ace of Diamonds   Jack of Hearts   
+Winning probability 
+29.872496
+
+
+Player 5
+Hand 
+ Five of Diamonds   Eight of Spades   Six of Clubs   Ace of Hearts   King of Hearts   
+Winning probability 
+20.765028
+
+
+
+Winner of the round2Player 1
+
+		Round 3
+Player 1
+Hand 
+ 
+Winning probability 
+0.000000
+
+
+Player 2
+Hand 
+ Jack of Diamonds   Ten of Clubs   Three of Spades   Ace of Clubs   King of Spades   
+Winning probability 
+20.727272
+
+
+Player 3
+Hand 
+ Queen of Diamonds   Seven of Clubs   Three of Diamonds   Three of Hearts   Nine of Clubs   
+Winning probability 
+29.454544
+
+
+Player 4
+Hand 
+ Nine of Hearts   Three of Clubs   Ten of Spades   Five of Diamonds   Seven of Spades   
+Winning probability 
+20.000000
+
+
+Player 5
+Hand 
+ Ten of Diamonds   Ten of Hearts   King of Hearts   Ace of Hearts   Seven of Diamonds   
+Winning probability 
+29.818184
+
+
+
+Winner of the round3Player 1
+
+		Round 1
+
+Player 2withdrawed.
+Player 1
+Hand 
+ Three of Diamonds   Four of Hearts   Three of Spades   Seven of Hearts   Six of Spades   
+Winning probability 
+44.236313
+
+
+Player 2
+Hand 
+ Three of Clubs   Eight of Hearts   King of Clubs   Ace of Hearts   Jack of Clubs   
+Winning probability 
+0.000000
+
+
+Player 3
+Hand 
+ Four of Diamonds   Eight of Clubs   Queen of Hearts   Nine of Diamonds   Ten of Spades   
+Winning probability 
+16.138329
+
+
+Player 4
+Hand 
+ Six of Hearts   Jack of Diamonds   Four of Spades   Two of Spades   Ten of Hearts   
+Winning probability 
+15.994236
+
+
+Player 5
+Hand 
+ Ace of Spades   Seven of Diamonds   Two of Clubs   Seven of Spades   Queen of Spades   
+Winning probability 
+23.631124
+
+
+
+Winner of the round1Player 0
+
+		Round 2
+
+		Round 1
+
+Player 2withdrawed.
+Player 1
+Hand 
+ Two of Clubs   Ten of Clubs   King of Hearts   King of Clubs   Seven of Diamonds   
+Winning probability 
+37.385323
+
+
+Player 2
+Hand 
+ Four of Diamonds   Eight of Spades   Five of Hearts   King of Spades   Eight of Clubs   
+Winning probability 
+0.000000
+
+
+Player 3
+Hand 
+ Jack of Spades   Six of Spades   Jack of Clubs   Five of Clubs   Ten of Spades   
+Winning probability 
+36.926605
+
+
+Player 4
+Hand 
+ Three of Clubs   Two of Hearts   Queen of Hearts   Nine of Spades   Six of Hearts   
+Winning probability 
+25.688072
+
+
+
+Winner of the round1Player 0
+
+		Round 2
+
+		Round 1
+
+Player 2withdrawed.
+Player 1
+Hand 
+ Two of Clubs   Queen of Spades   Six of Hearts   Jack of Spades   Eight of Hearts   
+Winning probability 
+24.833702
+
+
+Player 2
+Hand 
+ Four of Diamonds   Queen of Hearts   Three of Diamonds   King of Hearts   Eight of Clubs   
+Winning probability 
+0.000000
+
+
+Player 3
+Hand 
+ Three of Spades   Four of Spades   Ace of Spades   Six of Clubs   Ten of Clubs   
+Winning probability 
+25.277161
+
+
+Player 4
+Hand 
+ Seven of Diamonds   Three of Hearts   Five of Clubs   Jack of Clubs   Six of Spades   
+Winning probability 
+24.611973
+
+
+Player 5
+Hand 
+ Ace of Hearts   Eight of Spades   Six of Diamonds   Seven of Hearts   Nine of Spades   
+Winning probability 
+25.277161
+
+
+
+Winner of the round1Player 2
+
+		Round 2
+Player 1
+Hand 
+ Ten of Hearts   Ace of Diamonds   Queen of Clubs   Jack of Diamonds   Six of Hearts   
+Winning probability 
+19.159664
+
+
+Player 2
+Hand 
+ 
+Winning probability 
+0.000000
+
+
+Player 3
+Hand 
+ Two of Diamonds   Ten of Clubs   Eight of Hearts   Nine of Diamonds   Two of Hearts   
+Winning probability 
+26.890759
+
+
+Player 4
+Hand 
+ Eight of Clubs   Seven of Hearts   Four of Clubs   Two of Clubs   Seven of Diamonds   
+Winning probability 
+26.554623
+
+
+Player 5
+Hand 
+ Eight of Diamonds   King of Spades   King of Diamonds   Six of Spades   Seven of Clubs   
+Winning probability 
+27.394958
+
+
+
+Winner of the round2Player 2
+
+		Round 3
+
+Player 1withdrawed.
+Player 1
+Hand 
+ Four of Spades   Six of Clubs   Nine of Hearts   Ten of Hearts   Seven of Clubs   
+Winning probability 
+0.000000
+
+
+Player 2
+Hand 
+ 
+Winning probability 
+0.000000
+
+
+Player 3
+Hand 
+ King of Hearts   Eight of Diamonds   Jack of Diamonds   Three of Spades   Seven of Diamonds   
+Winning probability 
+25.623585
+
+
+Player 4
+Hand 
+ Five of Spades   Five of Clubs   Ace of Diamonds   Jack of Hearts   Queen of Spades   
+Winning probability 
+37.188210
+
+
+Player 5
+Hand 
+ Ace of Clubs   Ten of Spades   Ace of Hearts   Two of Hearts   Queen of Hearts   
+Winning probability 
+37.188210
+
+
+
+Winner of the round3Player 2
+
+	--------Round-------- 1
+
+Player 1withdrawed.
+Player 1
+Hand 
+ Eight of Diamonds   Ace of Hearts   King of Diamonds   Four of Spades   Nine of Clubs   
+Winning probability 
+0.000000
+
+
+Player 2
+Hand 
+ Six of Clubs   Nine of Hearts   Jack of Spades   Nine of Spades   Five of Hearts   
+Winning probability 
+59.409595
+
+
+Player 3
+Hand 
+ Two of Spades   Three of Spades   Seven of Hearts   Six of Diamonds   Ten of Hearts   
+Winning probability 
+40.590405
+
+
+
+Winner of the round1Player 1
+
+	--------Round-------- 2
+Player 1
+Hand 
+ 
+Winning probability 
+0.000000
+
+
+Player 2
+Hand 
+ Seven of Clubs   Four of Hearts   Ace of Clubs   King of Hearts   Nine of Spades   
+Winning probability 
+41.007195
+
+
+Player 3
+Hand 
+ Ace of Spades   Jack of Spades   Six of Spades   Nine of Clubs   Six of Hearts   
+Winning probability 
+58.992802
+
+
+
+Winner of the round2Player 1
